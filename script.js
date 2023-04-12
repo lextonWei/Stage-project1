@@ -1,5 +1,5 @@
 // Default tab
-document.getElementById("fruits").style.display = "block";
+document.getElementById("vegetables").style.display = "block";
 document.getElementsByClassName("tab")[0].classList.add("active");
 
 // Open a tab
